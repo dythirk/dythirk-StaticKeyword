@@ -1,4 +1,3 @@
-include Class.java;
 public class Runner {
     /**
      * This challenge is about interacting with static variables.
