@@ -1,4 +1,4 @@
-
+include Class;
 public class Runner {
     /**
      * This challenge is about interacting with static variables.
@@ -22,7 +22,7 @@ public class Runner {
      * @param in the String value you should change global_var to in.
      */
     public void changeClassVar(String in){
-        String global_var = in;
+        global_var = in;
 
     }
 }
